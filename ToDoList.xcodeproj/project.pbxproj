@@ -17,6 +17,7 @@
 		F015BA962A7C9F86007CB673 /* MemoListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F015BA952A7C9F86007CB673 /* MemoListTableViewController.swift */; };
 		F015BA982A7CAE67007CB673 /* MemoListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F015BA972A7CAE67007CB673 /* MemoListViewController.swift */; };
 		F015BA9A2A7CB632007CB673 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = F015BA992A7CB632007CB673 /* File.swift */; };
+		F0EA46552A83734200700929 /* detailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0EA46542A83734200700929 /* detailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		F015BA952A7C9F86007CB673 /* MemoListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoListTableViewController.swift; sourceTree = "<group>"; };
 		F015BA972A7CAE67007CB673 /* MemoListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoListViewController.swift; sourceTree = "<group>"; };
 		F015BA992A7CB632007CB673 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
+		F0EA46542A83734200700929 /* detailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = detailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				F015BA842A7C99EA007CB673 /* ToDoList.xcdatamodeld */,
 				F015BA952A7C9F86007CB673 /* MemoListTableViewController.swift */,
 				F015BA972A7CAE67007CB673 /* MemoListViewController.swift */,
+				F0EA46542A83734200700929 /* detailViewController.swift */,
 			);
 			path = ToDoList;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 				F015BA962A7C9F86007CB673 /* MemoListTableViewController.swift in Sources */,
 				F015BA862A7C99EA007CB673 /* ToDoList.xcdatamodeld in Sources */,
 				F015BA942A7C9CEF007CB673 /* Model.swift in Sources */,
+				F0EA46552A83734200700929 /* detailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
